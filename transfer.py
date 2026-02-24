@@ -127,4 +127,4 @@ if __name__ == "__main__":
     elif args.mode == "send":
         start_sender(args.filepath, args.ip)
     else:
-        parser.print_help()
+        parser.print_hel   p()
